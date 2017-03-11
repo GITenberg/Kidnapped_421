@@ -1,10 +1,8 @@
 _repo: Kidnapped_421
-_version: 0.1.0
+_version: 0.2.0
 covers:
 - cover_type: archival
-  image_path: 421/421-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 421-h/images/cover.jpg
 creator:
   author:
     agent_name: Stevenson, Robert Louis
@@ -24,6 +22,8 @@ description: "Kidnapped is a historical fiction adventure novel by Scottish auth
   \ were real people, including one of the principals, Alan Breck Stewart. The political\
   \ situation of the time is portrayed from different viewpoints, and the Scottish\
   \ Highlanders are treated sympathetically.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/421#Kidnapped
 gutenberg_bookshelf:
 - Children's Literature
 - Movie Books
